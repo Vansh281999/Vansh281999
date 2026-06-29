@@ -145,10 +145,6 @@ Building intelligent software, scalable backend systems, cloud-native applicatio
   </a>
 </p>
 
-| | | | |
-|:-:|:-:|:-:|:-:|
-| <a href="mailto:vansh281999@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"></a> | <a href="https://github.com/Vansh281999"><img src="https://skillicons.dev/icons?i=github" width="48"></a> | <a href="https://linkedin.com/in/vansh281999"><img src="https://skillicons.dev/icons?i=linkedin" width="48"></a> | <a href="https://leetcode.com/u/Vansh33663/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42"></a> |
-
 ---
 
 <div align="center">
